@@ -1,0 +1,2 @@
+# Dependencias externas del proyecto.
+# Este ejercicio utiliza solo la biblioteca estándar.
